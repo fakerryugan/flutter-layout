@@ -23,6 +23,9 @@ pada image_widget.dart isi dengan ini
 
 dan pada main.dart ubah ke kode ini agar bisa menampilkan semuatnya ke tengah layar
 <img width="372" alt="image" src="https://github.com/user-attachments/assets/c26c7ebe-e49c-4a6b-8543-866993f29450">
+hasil
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/cee0cd20-ea45-48b5-b66d-ac87e89b8ff8">
+
 
 ## variasi
 
